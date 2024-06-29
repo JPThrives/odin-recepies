@@ -19,3 +19,13 @@ a
     text-decoration: none;
     color:cornflowerblue;
 }
+body
+{
+    background-color: #87d5c2;
+}
+hr
+{
+    border: 2px solid black;
+    border-style:solid;
+
+}
